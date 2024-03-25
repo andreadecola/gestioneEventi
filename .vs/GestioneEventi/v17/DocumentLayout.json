@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\GestioneEventi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\models\\inserimentoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\models\\inserimentoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\models\\inserimentopartecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\models\\inserimentopartecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\models\\eventi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\models\\eventi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\models\\gestioneeventicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\models\\gestioneeventicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\models\\risorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\models\\risorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\models\\partecipanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\models\\partecipanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|c:\\users\\utente\\desktop\\gestioneeventi\\gestioneeventi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98D09B-F095-45F0-B08F-D5D5BC33F517}|GestioneEventi\\GestioneEventi.csproj|solutionrelative:gestioneeventi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InserimentoEvento.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\InserimentoEvento.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Models\\InserimentoEvento.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\InserimentoEvento.cs",
+              "RelativeToolTip": "GestioneEventi\\Models\\InserimentoEvento.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:34:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eventi.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\Eventi.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Models\\Eventi.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\Eventi.cs",
+              "RelativeToolTip": "GestioneEventi\\Models\\Eventi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:28:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InserimentoPartecipante.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\InserimentoPartecipante.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Models\\InserimentoPartecipante.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\InserimentoPartecipante.cs",
+              "RelativeToolTip": "GestioneEventi\\Models\\InserimentoPartecipante.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:40:53.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestioneEventiContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\GestioneEventiContext.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Models\\GestioneEventiContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\GestioneEventiContext.cs",
+              "RelativeToolTip": "GestioneEventi\\Models\\GestioneEventiContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:04:16.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Risorse.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\Risorse.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Models\\Risorse.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\Risorse.cs",
+              "RelativeToolTip": "GestioneEventi\\Models\\Risorse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:33:03.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partecipanti.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\Partecipanti.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Models\\Partecipanti.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Models\\Partecipanti.cs",
+              "RelativeToolTip": "GestioneEventi\\Models\\Partecipanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:32:58.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneEventi\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\GestioneEventi\\GestioneEventi\\Program.cs",
+              "RelativeToolTip": "GestioneEventi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:59:14.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
